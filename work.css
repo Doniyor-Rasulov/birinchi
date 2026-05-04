@@ -1,0 +1,23 @@
+img {
+    width: 400px;
+    height: 300px;
+}
+
+.text {
+    font-size: 20px;
+}
+
+.main {
+    margin-left: 20px;
+}
+
+.a {
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    padding: 9px;
+    padding-left: 14px;
+    padding-right: 14px;
+    text-decoration: none;
+    margin-left: 21px;
+}
